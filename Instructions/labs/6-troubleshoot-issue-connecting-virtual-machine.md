@@ -1,6 +1,6 @@
 ---
 lab:
-    title: 'Lab 6 - Troubleshoot issue connecting virtual machine scale set'
+    title: 'Lab 6 - Troubleshoot issue connecting virtual machine'
     module: 'Troubleshoot network security issues with Microsoft Azure'
 ---
 
